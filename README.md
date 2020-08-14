@@ -3,6 +3,8 @@ Combination of machine learning classification models to predict whether a perso
 
 Data source: framingham_heart_disease.csv - [Kaggle](https://www.kaggle.com/dileep070/heart-disease-prediction-using-logistic-regression)
 
+This project was created as the capstone assignment for Applied Machine Learning course at UT Dallas, including 2 projects:
+
 Project 1 has 2 parts:
 * **Part 1**: [Regression Task - Bike Rental Prediction](https://github.com/mypham14/bike-rental-prediction/blob/master/Project%201.ipynb): data cleaning, supervised machine learning regression models
 * **Part 2**: [Classification Task - Heart Disease Prediction](): data cleaning, supervised machine learning classification models
