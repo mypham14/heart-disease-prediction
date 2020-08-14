@@ -7,7 +7,7 @@ This project was created as the capstone assignment for Applied Machine Learning
 
 Project 1 has 2 parts:
 * **Part 1**: [Regression Task - Bike Rental Prediction](https://github.com/mypham14/bike-rental-prediction/blob/master/Project%201.ipynb): data cleaning, supervised machine learning regression models
-* **Part 2**: [Classification Task - Heart Disease Prediction](): data cleaning, supervised machine learning classification models
+* **Part 2**: [Classification Task - Heart Disease Prediction](https://github.com/mypham14/heart-disease-prediction/blob/master/Project%201.ipynb): data cleaning, supervised machine learning classification models
   - a mix of classification models *(ensemble learning, classification machine learning, principal component analysis and deep learning)* to provide hospitals a filtering system that helps patients identify and prevent potential predictors of having a heart disease 
   - Perform data cleansing and exploratory data analysis
      
